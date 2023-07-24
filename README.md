@@ -31,7 +31,7 @@
 
 <div align="end">
 <img src="https://github.com/Ismael-Oficial/Calculadora-Lucro/assets/125465461/991aab7b-76cc-4936-8e22-c1b6a699df21)">
-<p><i> Visualize o projeto hospedado aqui: https://ismael-oficial.github.io/Calculadora-Lucro/ </i></p> 
+<p><i> Visualize o projeto hospedado aqui: https://calculadora-lucro.vercel.app/ </i></p> 
 </div>
 
 <br><br>
